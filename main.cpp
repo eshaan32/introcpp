@@ -11,7 +11,9 @@ int main() {
 	for (const string& s : msg) {
 		cout << s << "\n";
 	}
-
+	
+	cout << "test";
+	
 	cout << endl;
 
 	return 0;
