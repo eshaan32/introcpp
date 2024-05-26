@@ -12,7 +12,7 @@ int main() {
 		cout << s << "\n";
 	}
 	
-	cout << "test";
+	cout << "test\n";
 	
 	cout << endl;
 
